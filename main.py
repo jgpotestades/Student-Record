@@ -43,7 +43,6 @@ def WelcomePage():
         sleep(1)
         WelcomePage()
 
-
 #===================================================
 #===============options from the menu===============
 def AddRecord():
