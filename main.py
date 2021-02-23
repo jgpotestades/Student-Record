@@ -67,7 +67,6 @@ def AddRecord():
         print(sample)
         print(list_comparator)
 
-
         if list_comparator == re.findall('[^a-zA-Z][0-9]\S',stud_num):
             if count != 10:
                 print("\t\t Invalid input, try again.")
