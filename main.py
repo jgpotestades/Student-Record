@@ -76,6 +76,7 @@ def AddRecord():
         else:
             break
 
+
     while True:
         system('cls')
         surname=input("\n\t\tEnter your Surname: ")
