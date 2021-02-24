@@ -91,7 +91,6 @@ def AddRecord():
         middle_name=input("\n\t\tEnter your Middle Name: ")
         break
 
-
     while True:
         system('cls')
         suffix=input("\n\t\tIf any, enter your suffix name (X if none): ")
